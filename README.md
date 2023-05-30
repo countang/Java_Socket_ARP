@@ -5,6 +5,8 @@ NUAA计算机网络ARP模拟实验
 
 Due to MacOS, which is a unix-like OS, u may need to note that the file path in MacOS is a little different from that in Windows.
 
-Pleasure to have this source-code helpful to anyone reading this.XD
+Pleasure to have this source-code helpful to anyone reading this.
+
+If helpful, plz give a free star🌟!:D
 
 Written by countang.
