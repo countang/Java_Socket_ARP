@@ -1,5 +1,5 @@
 # Java_Socket_ARP
-NUAA计算机网络ARP模拟实验
+计算机网络ARP模拟
 # Windows系统使用者注意：
 本人使用的是MacOS，在运行时没有问题。但是在Windows系统上运行可能会出现BUG。
 
